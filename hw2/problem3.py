@@ -1,7 +1,7 @@
 print('problem 3')
 
-s=input()
 a=input()
 b=input()
+c=input()
 x=a.replace(b,c)
 print(x)
